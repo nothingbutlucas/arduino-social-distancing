@@ -3,7 +3,6 @@
 
 int TRIG = 6;
 int ECHO = 9;
-int LED = 3;
 int DURACION;
 int DISTANCIA;
 
